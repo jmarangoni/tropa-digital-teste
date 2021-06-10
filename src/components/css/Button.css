@@ -1,0 +1,14 @@
+.btn-default {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 186.5%;
+    text-align: center;
+    color: #FFFFFF;
+    width: 151px;
+    height: 40px;
+    background: #2EAFB2;
+    border-radius: 5px;
+    margin-top: 5px;
+}

@@ -1,0 +1,49 @@
+ul { 
+    margin: 0!important;
+    padding: 0!important;
+ }
+
+ul li {
+    font-family: "Advent Pro";
+    color: #FFFFFF;
+    width: 211px;
+    height: 50px;
+    background: #2EAFB2;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+ul li .fa-li {
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 6px;
+}
+
+ul li.active .fa-li, ul li:hover .fa-li {
+    color: #FF6C22;
+}
+
+ul li a {
+    color: #FFF;
+    display: block;
+    text-decoration: none;
+    padding: 12px;
+}
+
+ul li.active a, ul li:hover a {
+    color: #000;
+}
+
+ul li span {
+    margin-top: 5px;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.active, ul li:hover {
+    background-color: #E5E5E5;
+    width:100%;
+    font-weight: 600;
+}
+
+                

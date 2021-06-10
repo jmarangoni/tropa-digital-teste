@@ -1,0 +1,10 @@
+.content {
+    width: 100%;
+    padding: 50px;
+}
+
+.hr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    transform: rotate(0.08deg);
+    margin: 20px 0;
+}

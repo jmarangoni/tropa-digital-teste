@@ -1,0 +1,51 @@
+.bg-login {
+    background-color:#FF6C22;
+    padding: 8% 0;
+}
+
+.box-login {
+    display: flex;
+    margin: 0 auto;
+    width: 857px;
+    height: 512px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 19px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.star-background {
+    width: 389px;
+    height: 512px;
+    background: url("../../assets/images/star-background.png");
+    border-radius: 0px 4px 4px 0px;
+}
+
+.login-form {
+    padding-left: 40px;
+    width: 428px;
+    height: 512px;
+}
+
+.logo {
+    margin: 60px 0 40px 20px;
+    width: 259px;
+    height: 77.54px;
+}
+
+.img-notebook {
+    position: absolute;
+    width: 414px;
+    height: 413px;
+    right: 325px;
+    top: 171px;
+}
+
+@media screen and (max-width: 1366px) {
+    .img-notebook {
+        top: 166px;
+    }
+
+    .bg-login {
+        padding: 5% 0;
+    }
+  }

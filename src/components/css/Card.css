@@ -1,0 +1,48 @@
+.card {
+    width: 465px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+    border-radius: 6px;
+    padding: 25px;
+    margin: 0 20px 20px 0;
+}
+
+.card h5 {
+    margin-bottom: 5px;
+}
+
+.card .card-img {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.card .card-img img {
+    width: 463.59px;
+    height: 141px;
+    border-radius: 6px;
+}
+
+.card .card-date {
+    position: absolute;
+    width: 101.94px;
+    height: 27px;
+    right: 15px;
+    top: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    color: #FFFFFF;
+    font-family: "Advent Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    display: flex;
+}
+
+.card .card-date .time-label {
+    margin-top: 7px
+}
+
+.card .card-date svg {
+    font-size: 15px;
+    margin: 5px 15px 5px 7px;
+}

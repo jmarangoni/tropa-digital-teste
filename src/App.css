@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Advent Pro Bold";
+    src: url("./assets/fonts/advent_pro/AdventPro-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Advent Pro";
+    src: url("./assets/fonts/advent_pro/AdventPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("./assets/fonts/roboto/Roboto-Regular.ttf");
+}
+
+h1 {
+    font-family: "Advent Pro Bold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.44);
+}
+
+h2 {
+    font-family: "Advent Pro";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.44);
+}
+
+h5 {
+    font-family: "Advent Pro Bold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000000;
+}
+
+p {
+    font-family: "Advent Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #000000;
+}
+
+strong {
+    color:#FF6C22;
+}
