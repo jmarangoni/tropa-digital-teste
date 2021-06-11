@@ -6,6 +6,7 @@
 }
 
 .box-login {
+    position: relative;
     display: flex;
     width: 857px;
     height: 512px;
@@ -39,8 +40,8 @@
     position: absolute;
     width: 414px;
     height: 413px;
-    right: 922px;
-    top: 305px;
+    right: 50px;
+    top: 100px;
 }
 
 /*@media screen and (max-width: 1366px) {
